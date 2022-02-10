@@ -1,4 +1,4 @@
-# Discord Bot 🖥️
+# Twitter Bot 🖥️
 
 Hey! This Python script is able to send a tweet in an automated fashion. It uses the Selenium WebDriver module and ChromeDriver to control Chrome and send the tweet. 
 <br />
